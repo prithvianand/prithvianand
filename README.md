@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prithvianand
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Analytics
 - 🌱 I’m currently learning AI/ML
-- 💞️ I’m looking to collaborate on Business Analyst
+- 💞️ I’m looking to collaborate on Data Analyst
 - 📫 How to reach me prithvianand94@gmail.com
 
 <!---
